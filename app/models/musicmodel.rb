@@ -1,0 +1,2 @@
+class Musicmodel < ApplicationRecord
+end
